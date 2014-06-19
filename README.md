@@ -1,4 +1,4 @@
-C---Programming-Tutorial-11---Compound-Assignment-Operators
+C++ Programming Tutorial 11 - Compound Assignment Operators
 ===========================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/FmGgeaeuwYk
